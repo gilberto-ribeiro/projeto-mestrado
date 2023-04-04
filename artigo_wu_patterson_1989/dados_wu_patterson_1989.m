@@ -38,3 +38,7 @@ Uz_n11 = [z_norm_n11' Uz_Utip_r50'];
 dlmwrite('dados_wu_patterson_1989_Ur_n9.dat', Ur_n9, 'delimiter', ' ');
 dlmwrite('dados_wu_patterson_1989_Utheta_n9.dat', Utheta_n9, 'delimiter', ' ');
 dlmwrite('dados_wu_patterson_1989_Uz_n9.dat', Uz_n9, 'delimiter', ' ');
+
+dlmwrite('dados_wu_patterson_1989_Ur_n11.dat', Ur_n11, 'delimiter', ' ');
+dlmwrite('dados_wu_patterson_1989_Utheta_n11.dat', Utheta_n11, 'delimiter', ' ');
+dlmwrite('dados_wu_patterson_1989_Uz_n11.dat', Uz_n11, 'delimiter', ' ');

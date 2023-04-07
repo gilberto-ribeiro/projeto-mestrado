@@ -33,3 +33,4 @@ def trim_velocity(file_name):
                         u_norm = u / U_tip
                         if z_norm >= -2.5 and z_norm <= 2.5:
                             fhandle_write.write(f'{z:.8f} {u:.8f} {z_norm:.8f} {u_norm:.8f}\n')
+        fhandle_read.close()

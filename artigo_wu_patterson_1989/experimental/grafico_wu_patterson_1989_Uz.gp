@@ -8,7 +8,7 @@ set ytics 0.5
 set yrange [-2.5:2.5]
 set xrange [-0.1:0.2]
 set terminal pdfcairo size 10cm, 10cm font 'courier'
-set output 'grafico_wu_patterson_1989_Uz.pdf'
+set output 'fig_gr_wu_patterson_1989_Uz.pdf'
 plot 'dados_wu_patterson_1989_Uz_n11.dat' u 2:1 t 'r = 50 mm' w lp pt 6 ps 0.5 dt 2, \
 'dados_wu_patterson_1989_Uz_n9.dat' u 3:1 t 'r = 60 mm' w lp pt 6 ps 0.5 dt 2, \
 '' u 4:1 t 'r = 70 mm' w lp pt 6 ps 0.5 dt 2, \

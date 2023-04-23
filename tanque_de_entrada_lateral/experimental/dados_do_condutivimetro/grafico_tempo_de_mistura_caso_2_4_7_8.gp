@@ -1,5 +1,5 @@
 reset
-set title 'Perfil de condutividade para os casos 2, 4, 7 e 8: N = 600 rpm, β = 0°'
+set title 'Perfil de condutividade para os casos 2, 4, 7 e 8'
 set xlabel 'Tempo [min]'
 set ylabel 'Condutividade elétrica normalizada'
 set grid

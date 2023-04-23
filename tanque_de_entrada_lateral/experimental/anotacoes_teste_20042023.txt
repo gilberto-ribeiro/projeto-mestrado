@@ -1,0 +1,45 @@
+caso_1_eletrodo_1_fundo
+caso_1_eletrodo_2_topo
+
+5 - 4L - 67.5 g/L - 400 rpm - 0° : 
+	Início:
+		CE1 (Fundo): 304.4 uS
+		CE2 (Topo): 279.2 uS
+	Fim:
+		CE1 (Fundo): 832.8 uS
+		CE2 (Topo): 767.8 uS
+
+6 - 4L - 67.5 g/L - 500 rpm - 0° : 15:42
+	Início:
+		CE1 (Fundo): 833.3
+		CE2 (Topo): 767.4
+	Fim:
+		CE1 (Fundo): 1346 uS
+		CE2 (Topo): 1230 uS
+
+7 original - 4L - 67.5 g/L - 500 rpm = -15° : 16:28 
+	Início:
+		CE1 (Fundo): 1349 uS
+		CE2 (Topo):1231 uS
+	Fim:
+		CE1 (Fundo): 1870 uS
+		CE2 (Topo): 1647 uS
+
+7 - 4L - 67.5 g/L - 600 rpm - 0°: 17:55
+	Início:
+		CE1 (Fundo): 1871 uS
+		CE2 (Topo): 1678 uS
+	Fim:
+		CE1 (Fundo): 2383 uS
+		CE2 (Topo): 2129 uS
+
+8 - 2L - 125 g/L - 60 rpm - 0°: 
+	Início: 18:31
+		CE1 (Fundo): 2381 uS
+		CE2 (Topo): 2128 uS
+	Fim: 18:49
+		CE1 (Fundo): 2881
+		CE2 (Topo): 2529
+
+sal1= 1025,04 g (Foi adicionado apenas este)
+sal2= 1071,24 g

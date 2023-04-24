@@ -19,8 +19,8 @@ b2 = -1.744538
 r2 = 0.917438
 g(x) = a2*x**b2
 plot "dados_theta_por_N.dat" u "velocidade_de_rotacao":"tempo_de_mistura" t "Dados experimentais" w p lt 1 pt 6 ps 0.5 ,\
-g(x) t "y = a x**b" w l lt 2 dt 1, \
-f(x) t "y = -3.833 x + 2418" w l lt 3 dt 2
+g(x) t "y = exp(16.82)*x**(-1.745)" w l lt 2 dt 1, \
+f(x) t "y = -3.833*x + 2418" w l lt 3 dt 1
 set terminal pdfcairo font "courier"
 set output "fig_gr_theta_por_N.pdf"
 replot

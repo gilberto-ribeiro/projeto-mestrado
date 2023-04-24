@@ -1,7 +1,7 @@
 reset
-set title 'Logaritmo da variância da concentração para cada caso'
+set title 'Logaritmo da variância para cada caso'
 set xlabel 'Tempo [min]'
-set ylabel 'Logaritmo da variância da concentração'
+set ylabel "Logaritmo da variância da\ncondutividade elétrica"
 set grid xtics mxtics ytics
 set xrange [0:45]
 set yrange [-7:2]

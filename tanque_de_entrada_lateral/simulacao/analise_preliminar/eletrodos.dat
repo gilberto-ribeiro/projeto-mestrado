@@ -1,0 +1,24 @@
+# Posição original do eletrodo [mm]
+Eletrodo x y z
+1 506.366 -285.000 12.500
+2 100.000 173.205 210.000
+
+# Posição rotacionada do eletrodo [mm]
+Eletrodo x y z
+1 -500.000 -296.025 12.500
+2 -200.000 0.000 210.000
+
+#Velocidades do caso N=200 rpm, beta = 15° [m/s]
+Eletrodo Magnitude Radial Axial Tangencial
+1 0.015578211 -0.012566455 0.0090824538 -0.0015079512
+2 0.0095665244 -0.0079667909 -0.0014759166 0.0050862855
+
+#Velocidades do caso N=600 rpm, beta = 0° [m/s]
+Eletrodo Magnitude Radial Axial Tangencial
+1 0.01183136 -0.0097901233 -0.0061479641 -0.0025173581
+2 0.046414619 0.036139506 0.012911756 0.026106312
+
+#Velocidades do caso N=200 rpm, beta = 0° [m/s]
+Eletrodo Magnitude Radial Axial Tangencial
+1 0.003791109 -0.0028508063 -0.0023858694 -0.00074366541
+2 0.016088244 0.01273984 0.0050213991 0.0084447394

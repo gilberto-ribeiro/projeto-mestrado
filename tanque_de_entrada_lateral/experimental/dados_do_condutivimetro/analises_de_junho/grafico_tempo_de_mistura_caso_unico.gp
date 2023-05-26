@@ -1,9 +1,9 @@
 reset
 rodada = 'A'
 configuracao = 1
-caso = 6
+caso = 1
 beta = 0
-n = 2
+n = 3
 distribuicao = 'D'
 diretorio_rodada = 'rodada_'.rodada.'_configuracao_'.configuracao
 diretorio_caso = 'caso_'.caso.'_'.distribuicao.'_n_'.n.'_beta_'.beta

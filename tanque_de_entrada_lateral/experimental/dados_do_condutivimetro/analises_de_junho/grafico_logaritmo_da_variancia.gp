@@ -7,7 +7,7 @@ set xlabel 'Tempo [min]'
 set ylabel "Logaritmo da variância da\ncondutividade elétrica"
 set key rmargin
 set grid xtics mxtics ytics
-set xrange [0:45]
+set xrange [0:60]
 set yrange [-7:2]
 set xtics 5
 set ytics 1

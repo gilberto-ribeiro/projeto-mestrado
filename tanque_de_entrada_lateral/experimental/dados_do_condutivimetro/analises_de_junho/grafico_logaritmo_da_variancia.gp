@@ -1,5 +1,5 @@
 reset
-rodada = 'A'
+rodada = 'B'
 configuracao = 1
 diretorio = 'rodada_'.rodada.'_configuracao_'.configuracao
 set title 'Logaritmo da variância para cada caso - Rodada '.rodada.' (C'.configuracao.')'
